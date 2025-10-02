@@ -4,4 +4,4 @@
 Pozitiv: 4
 Спутник: 7
 На рахате: 0
-pStore: 15
+DaVinci: 15
