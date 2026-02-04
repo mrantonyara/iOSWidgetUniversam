@@ -4,4 +4,4 @@
 Pozitiv: 46
 Спутник: 47
 На рахате: -2
-DaVinci: 53
+DaVinci: -2
